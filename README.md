@@ -69,7 +69,12 @@
 ---
 <h2 align="center">✨ What Makes Us Special? ✨</h2> 
 
-<h5 align="center"> Our software excels with unique features: </h5> <ul> <li> <h3>🔄 Automatic Reinjection:</h3> <b>Monitors injected files for Discord and automatically reinjects if uninstalled. </b></li> <li> <h3>🛡️ Anti-AV Removal:</h3> <b>Resilient against antivirus software to ensure your modifications stay intact. </b></li> </ul> <p align="center"> Enjoy reliability and persistence with our advanced technology. </p>
+<details>
+  <summary>Hit Preview</summary>
+  
+  ![Candy Injection](https://github.com/mollyjaw/candyinjector/blob/main/candyland%20hit.png?raw=true)
+  
+</details> <ul> <li> <h3>🔄 Automatic Reinjection:</h3> <b>Monitors injected files for Discord and automatically reinjects if uninstalled. </b></li> <li> <h3>🛡️ Anti-AV Removal:</h3> <b>Resilient against antivirus software to ensure your modifications stay intact. </b></li> </ul> <p align="center"> Enjoy reliability and persistence with our advanced technology. </p>
 
 
 ---
@@ -77,4 +82,9 @@
 <p align="center">
   <strong>Explore these features and more with Candy Injection - FUD EDITION!</strong>
 </p>
-<h2 align="center">💰 Pricing Plans 💰</h2> --- <div align="center"> <table> <tr> <td align="center" width="300px" style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #2d2d30;"> <h3>🎉 Lifetime Access</h3> <p style="font-size: 24px; color: white;">$10</p> <ul style="list-style-type: none; padding: 0;"> <li>✔️ Full Access to All Features</li> <li>✔️ Free Updates</li> <li>✔️ Priority Support</li> </ul> <br> <a href="#" style="text-decoration: none; background-color: #ff69b4; color: white; padding: 10px 20px; border-radius: 5px;">Buy Now</a> </td> </tr> </table> </div> --- <p align="center"> <strong>Get the best value with our lifetime plan and enjoy all future updates!</strong> </p>
+<h2 align="center">💰 Pricing Plans 💰</h2>  <div align="center"> <table> <tr> <td align="center" width="300px" style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #2d2d30;"> <h3>🎉 Lifetime Access</h3> <p style="font-size: 24px; color: white;">$10</p> <ul style="list-style-type: none; padding: 0;"> <li>✔️ Full Access to All Features</li> <li>✔️ Free Updates</li> <li>✔️ Priority Support</li> </ul> <br> <a href="#" style="text-decoration: none; background-color: #ff69b4; color: white; padding: 10px 20px; border-radius: 5px;">Buy Now</a> </td> </tr> </table> </div> 
+
+
+---
+
+<p align="center"> <strong>Get the best value with our lifetime plan and enjoy all future updates!</strong> </p>
