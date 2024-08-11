@@ -86,7 +86,7 @@
 <p align="center">
   <strong>Explore these features and more with Candy Injection - FUD EDITION!</strong>
 </p>
-<h2 align="center">💰 Pricing Plans 💰</h2>  <div align="center"> <table> <tr> <td align="center" width="300px" style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #2d2d30;"> <h3>🎉 Lifetime Access</h3> <p style="font-size: 24px; color: white;">$10</p> <ul style="list-style-type: none; padding: 0;"> <li>✔️ Full Access to All Features</li> <li>✔️ Free Updates</li> <li>✔️ Priority Support</li> </ul> <br> <a href="#" style="text-decoration: none; background-color: #ff69b4; color: white; padding: 10px 20px; border-radius: 5px;">Buy Now</a> </td> </tr> </table> </div> 
+<h2 align="center">💰 Pricing Plans 💰</h2>  <div align="center"> <table> <tr> <td align="center" width="300px" style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #2d2d30;"> <h3>🎉 Lifetime Access</h3> <p style="font-size: 24px; color: white;">$10</p> <ul style="list-style-type: none; padding: 0;"> <li>✔️ Full Access to All Features</li> <li>✔️ Free Updates</li> <li>✔️ Priority Support</li> </ul> <br> <a href="#" style="text-decoration: none; background-color: #ff69b4; color: white; padding: 10px 20px; border-radius: 5px;">Available at 50 stars</a> </td> </tr> </table> </div> 
 
 
 ---
