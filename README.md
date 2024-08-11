@@ -20,4 +20,4 @@
 
 ###### Preview (Debug Terminal)
 
-![[Pasted image 20240811021659.png]]
+![[candyland.png]]
