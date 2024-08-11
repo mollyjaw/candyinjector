@@ -74,7 +74,7 @@
   
   ![Candy Injection](https://github.com/mollyjaw/candyinjector/blob/main/candyland%20hit.png?raw=true)
   
-</details> <ul> <li> <h3>🔄 Automatic Reinjection:</h3> <b>Monitors injected files for Discord and automatically reinjects if uninstalled. </b></li> <li> <h3>🛡️ Anti-AV Removal:</h3> <b>Resilient against antivirus software to ensure your modifications stay intact. </b></li> </ul> <p align="center"> Enjoy reliability and persistence with our advanced technology. </p>
+</details> <ul> <li> <h3>🔄 Automatic Reinjection:</h3> <b>Monitors injected files for Discord and automatically reinjects if uninstalled. </b></li> <li> <h3>🛡️ Anti-AV Removal:</h3> <b>Resilient against antivirus software to ensure your modifications stay intact. </b></li><li> <h3>📁 Multi-Task</h3> <b>Inject into multiple Discord Clients simultaneously </b></li><li> <h3>💉Stealth:</h3> <b>No need to restart Discord. Everything happens in the background</b></li>  </ul> <p align="center"> Enjoy reliability and persistence with our advanced technology. </p>
 
 ---
 <h2 align="center">Discord likes to <span style="color: pink;">change!</span></h2> 
