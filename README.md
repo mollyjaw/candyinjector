@@ -25,7 +25,7 @@
 
 
 
-<h2 align="center">🍭 Why <span style="color: pink;">candyland?</span>🍭</h2>
+<h2 align="center">🍭 Why <span style="color: pink;">candy injector?</span>🍭</h2>
 <details>
   <summary> Preview (Debug Terminal)</summary>
   
@@ -78,7 +78,7 @@
 
 ---
 <h2 align="center">Discord likes to <span style="color: pink;">change!</span></h2> 
-<h4 align="center">Well so do we. Discord changes folder names in an attempt to remove tese injections. <b>CANDYLAND BYPASSES THAT</b></h4> 
+<h4 align="center">Well so do we. Discord changes folder names in an attempt to remove tese injections. <b>CANDY BYPASSES THAT</b></h4> 
 <h4 align="center">We have ran many tests to assure fail-safe procedures to get to the files. We have MULTIPLE techniques of editing this files. <b>p.s. we only need one</b></h4> 
 
 ---
