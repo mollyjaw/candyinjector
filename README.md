@@ -1,5 +1,9 @@
 
-# CANDY INJECTION - FUD EDITION
+<h1 align="center">
+  # CANDY INJECTION - <span style="color: pink;">FUD EDITION</span>
+</h1>
+
+
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <!-- GitHub Stars Badge -->
     <img src="https://img.shields.io/github/stars/mollyjaw/candyinjector?color=%23000000&logoColor=%23000000" style="margin: 5px;">
@@ -20,4 +24,4 @@
 
 ###### Preview (Debug Terminal)
 
-![[candyland.png]]
+![Candy Injection](https://github.com/mollyjaw/candyinjector/blob/main/candyland.png?raw=true)
