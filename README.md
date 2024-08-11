@@ -25,3 +25,45 @@
 ###### Preview (Debug Terminal)
 
 ![Candy Injection](https://github.com/mollyjaw/candyinjector/blob/main/candyland.png?raw=true)
+
+
+<h2 align="center">🍭 Why <span style="color: pink;">candyland?</span>🍭</h2>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/verified-badge.png" alt="verified badge" width="40px">
+  <strong>Undetectable</strong><br>
+  Our software is designed to bypass all major antivirus programs without detection.
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/speedometer.png" alt="speedometer" width="40px">
+  <strong>Blazing Fast Injection</strong><br>
+  Experience lightning-fast injection speeds with minimal impact on system performance.
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/lock.png" alt="lock" width="40px">
+  <strong>Secure Encryption</strong><br>
+  Advanced encryption ensures your webhook will ever get leaked.
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/code.png" alt="code" width="40px">
+  <strong>Customizable Code</strong><br>
+  Easily modify and extend the software to meet your unique needs.
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=VQRXVT8t0vHT&format=png&color=000000" alt="magic wand" width="40px">
+  <strong>User-Friendly Interface</strong><br>
+  A sleek and intuitive design that anyone can use. Yes its inspo by Luna SB
+</p>
+
+---
+
+<p align="center">
+  <strong>Explore these features and more with Candy Injection - FUD EDITION!</strong>
+</p>
+<h2 align="center">💰 Pricing Plans 💰</h2> --- <div align="center"> <table> <tr> <td align="center" width="300px" style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #2d2d30;"> <h3>🎉 Lifetime Access</h3> <p style="font-size: 24px; color: white;">$10</p> <ul style="list-style-type: none; padding: 0;"> <li>✔️ Full Access to All Features</li> <li>✔️ Free Updates</li> <li>✔️ Priority Support</li> </ul> <br> <a href="#" style="text-decoration: none; background-color: #ff69b4; color: white; padding: 10px 20px; border-radius: 5px;">Buy Now</a> </td> </tr> </table> </div> --- <p align="center"> <strong>Get the best value with our lifetime plan and enjoy all future updates!</strong> </p>
