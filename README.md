@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  # CANDY INJECTION - <span style="color: pink;">FUD EDITION</span>
+  CANDY INJECTION - <span style="color: pink;">FUD EDITION</span>
 </h1>
 
 
@@ -22,12 +22,17 @@
 </p>
 <hr style="border-radius: 10px; margin-top: 50px; margin-bottom: 50px; border: 0; height: 3px; background: linear-gradient(to right, #FFC1CC, #FC5C85); width: 100%;" />
 
-###### Preview (Debug Terminal)
 
-![Candy Injection](https://github.com/mollyjaw/candyinjector/blob/main/candyland.png?raw=true)
 
 
 <h2 align="center">🍭 Why <span style="color: pink;">candyland?</span>🍭</h2>
+<details>
+  <summary> Preview (Debug Terminal)</summary>
+  
+  ![Candy Injection](https://github.com/mollyjaw/candyinjector/blob/main/candyland.png?raw=true)
+  
+</details>
+
 
 ---
 
@@ -60,6 +65,12 @@
   <strong>User-Friendly Interface</strong><br>
   A sleek and intuitive design that anyone can use. Yes its inspo by Luna SB
 </p>
+
+---
+<h2 align="center">✨ What Makes Us Special? ✨</h2> 
+
+<h5 align="center"> Our software excels with unique features: </h5> <ul> <li> <h3>🔄 Automatic Reinjection:</h3> <b>Monitors injected files for Discord and automatically reinjects if uninstalled. </b></li> <li> <h3>🛡️ Anti-AV Removal:</h3> <b>Resilient against antivirus software to ensure your modifications stay intact. </b></li> </ul> <p align="center"> Enjoy reliability and persistence with our advanced technology. </p>
+
 
 ---
 
