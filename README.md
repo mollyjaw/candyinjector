@@ -66,6 +66,12 @@
   A sleek and intuitive design that anyone can use. Yes its inspo by Luna SB
 </p>
 
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=13814&format=png&color=000000" alt="magic wand" width="40px">
+  <strong>Everything Offline</strong><br>
+  No Internet Connection Required. Injections Still work!
+</p>
+
 ---
 <h2 align="center">✨ What Makes Us Special? ✨</h2> 
 
