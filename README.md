@@ -76,6 +76,10 @@
   
 </details> <ul> <li> <h3>🔄 Automatic Reinjection:</h3> <b>Monitors injected files for Discord and automatically reinjects if uninstalled. </b></li> <li> <h3>🛡️ Anti-AV Removal:</h3> <b>Resilient against antivirus software to ensure your modifications stay intact. </b></li> </ul> <p align="center"> Enjoy reliability and persistence with our advanced technology. </p>
 
+---
+<h2 align="center">Discord likes to <span style="color: pink;">change!</span></h2> 
+<h4 align="center">Well so do we. Discord changes folder names in an attempt to remove tese injections. <b>CANDYLAND BYPASSES THAT</b></h4> 
+<h4 align="center">We have ran many tests to assure fail-safe procedures to get to the files. We have MULTIPLE techniques of editing this files. <b>p.s. we only need one</b></h4> 
 
 ---
 
